@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning **Node js, React**
 
-- 👨‍💻 All of my projects are available at [[ablegurung.com.np](https://www.ablegurung.com.np/work)]([https://www.ablegurung.com.np/work])
-
+- 👨‍💻 All of my projects are available at [[ablegurung.com.np](https://www.ablegurung.com.np/work)]
+  
 - 💬 Ask me about **Django, Python**
 
 - 📫 How to reach me **able.gurung@ieee.org**
