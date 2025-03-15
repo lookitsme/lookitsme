@@ -11,7 +11,7 @@
   
 - 💬 Ask me about **Django, Python**
 
-- 📫 How to reach me **able.gurung@ieee.org**
+- 📫 How to reach me **able.gurung@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
