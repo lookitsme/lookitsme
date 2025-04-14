@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a mobile application**
 
-- 🌱 I’m currently learning **Node js, React**
+- 🌱 I’m currently learning **Flask**
 
 - 👨‍💻 All of my projects are available at [ablegurung.com.np](https://www.ablegurung.com.np/work)
   
