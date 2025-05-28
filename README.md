@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **Vue**
 
 - 👨‍💻 All of my projects are available at [ablegurung.com.np](https://www.ablegurung.com.np/work)
-  
-- 💬 Ask me about **Django, Python**
 
 - 📫 How to reach me **able.gurung@outlook.com**
 
