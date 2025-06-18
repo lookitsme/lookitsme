@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lookitsme&label=Profile%20views&color=0e75b6&style=flat" alt="lookitsme" /> </p>
 
-- 🔭 I’m currently working on **a mobile application**
+- 🔭 I’m currently working on the **MiPlayer System**
 
 - 🌱 I’m currently learning **Vue**
 
